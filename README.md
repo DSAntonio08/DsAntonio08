@@ -14,7 +14,7 @@
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/thebigtonno_)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ant0.dst8)
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:08desant@rgtfo-me.it
+[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:antonio.destefani08@gmail.com
 ) 
 <br>
 # 💻 Tech Stack:
