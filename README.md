@@ -1,14 +1,14 @@
 # 💫 About Me:
 <ul>
   <li>17-year-old student at TFO Meran (Technical-Electronic High School).</li>
-  <li>Main Project: A web-fronted robotic arm—prompt any movement and watch
-    it happen.
+  <li>Main Project: Right now, I'm working on my own Homelab to get into Networking and Security!
+                    Over the Summer, I also have 2 Internships!
   </li>
-  I'm always trying to learn new things! Right now I am studying Assembly.
+  I'm always trying to learn new things! Right now I am studying HCS08 Assembly in School.
   <li>
     Next on my List is Rust!
   </li>
-  <li>I use Arch, btw.</li>
+  <li>I use Arch (btw) on my PC and NixOS on my Laptop!</li>
 </ul>
 
 ## 🌐 Socials:
@@ -30,10 +30,7 @@
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Raspberry
 Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![TOR](https://img.shields.io/badge/tor-%237E4798.svg?style=for-the-badge&logo=tor-project&logoColor=white)
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
-![CMake](https://img.shields.io/badge/CMake-%23008FBA.svg?style=for-the-badge&logo=cmake&logoColor=white)
 ---
 [![](https://visitcount.itsvg.in/api?id=DsAntonio08&icon=0&color=0)](https://visitcount.itsvg.in)
 
