@@ -1,13 +1,8 @@
 # 💫 About Me:
 <ul>
   <li>17-year-old student at TFO Meran (Technical-Electronic High School).</li>
-  <li>Main Project: Right now, I'm working on my own Homelab to get into Networking and Security!
+  <li>Main Project: Right now, I'm working on my Final Matura-Project, stay tuned.
                     Over the Summer, I also have 2 Internships!
-  </li>
-  I'm always trying to learn new things! Right now I am studying HCS08 Assembly in School.
-  <li>
-    Next on my List is Rust!
-  </li>
   <li>I use Arch (btw) on my PC and Chimera on my Laptop!</li>
 </ul>
 
