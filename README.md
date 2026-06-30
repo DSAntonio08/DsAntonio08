@@ -3,7 +3,7 @@
   <li>17-year-old student at TFO Meran (Technical-Electronic High School).</li>
   <li>Main Project: Right now, I'm working on my Final Matura-Project, stay tuned.
                     Over the Summer, I also have 2 Internships!
-  <li>I use Arch (btw) on my PC and Chimera on my Laptop!</li>
+  <li>I use Arch (btw) on my PC and Void on my Laptop!</li>
 </ul>
 
 ## 🌐 Socials:
